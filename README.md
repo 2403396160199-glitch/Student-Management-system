@@ -18,5 +18,8 @@ This project allows users to manage student records with basic CRUD operations.
 - OOP Concepts
 - Scanner Class
 
+## Project Screenshot
+![Output](output.png)
+
 ## Author
 Parth Bharvad
